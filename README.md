@@ -73,9 +73,9 @@
 
 ## Developers
 
-- [@Chiranjit Behera](https://github.com/Chiranjit34)
-- [@Devesh Goyal ](https://github.com/DeveshGoyal26)
 - [@Affan Ahmad](https://github.com/AFFAN-AHMAD)
+- [@Devesh Goyal ](https://github.com/DeveshGoyal26)
+- [@Sampanna Chatterjee](https://github.com/Sam01-dev)
 - [@Shubham Verma](https://github.com/S-hub1996)
 - [@Paras Aghi](https://github.com/PARAS-AGHI)
-- [@Sampanna Chatterjee](https://github.com/Sam01-dev)
+- [@Chiranjit Behera](https://github.com/Chiranjit34)
